@@ -1,0 +1,35 @@
+.gallery img{
+    width: 100%;
+}
+
+h2{
+    color:firebrick;
+    padding-top: 12px;
+    font-style: oblique;
+}
+
+h4{
+    color:dimgray;
+    font-style: italic;
+}
+p b{
+    color: darkgrey;
+}
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: cornflowerblue;
+    padding-top: 12px;
+}
+
+#menu a{
+    color:#ffffff;
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 800;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#menu a:hover{
+    color:#013ADF;
+}
